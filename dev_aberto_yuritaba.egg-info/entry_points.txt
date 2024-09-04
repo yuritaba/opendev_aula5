@@ -1,0 +1,2 @@
+[console_scripts]
+hello = dev_aberto.hello:hello
