@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!python
 import gettext
 from dev_aberto import hello
 from babel.dates import format_date
